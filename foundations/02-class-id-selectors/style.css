@@ -1,11 +1,9 @@
 p {
     background-color: rgb(238, 122, 166);
+    font-family: Verdana, "Deja Vu", sans-serif;
 }
-.P1, .P3 {
-    font-family: Verdana;
-}
-.P2 {
-    font-family: "DejaVu Sans", sans-serif;
+.P3 {
+    font-size: 24px;
 }
 #two {
     color: rgb(0,0, 255);
